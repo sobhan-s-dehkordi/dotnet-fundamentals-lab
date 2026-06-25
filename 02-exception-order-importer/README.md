@@ -13,10 +13,8 @@ Move beyond basic `try/catch` blocks and apply advanced, structured exception ha
 * Meaningful Error Reporting
 
 **C# Features**
-* Pattern Matching (`switch` expressions for type-checking)
-* Abstract Classes (Base exception definition)
-* `System.Text.Json` (Deserialization & error catching)
-* Exception Filters (Handling specific `IOException`s)
+* Deserialization & error catching
+* Exception Filters
 
 **Design Principles**
 * SoC (Separation of Concerns)
